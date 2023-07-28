@@ -5,3 +5,7 @@
 * Searching?
 * How to do linking?
 * Maybe use obsidian to manage the relationships?  ie a new set of templates for docs, verify that I can commit the linking between docs
+
+# Sharing
+* Obisdian is a good start I think as it offers a lot of neat document  mangaement features.
+* Docusaurus?  Probably host on AWS?  Cost?
