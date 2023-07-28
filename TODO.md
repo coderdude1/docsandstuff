@@ -10,3 +10,4 @@
 # Sharing
 * Obisdian is a good start I think as it offers a lot of neat document  mangaement features.
 * Docusaurus?  Probably host on AWS?  Cost?
+* github wiki?
