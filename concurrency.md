@@ -12,6 +12,15 @@ https://tech.io/playgrounds/929/reactive-programming-with-reactor-3/Intro
 Webflux Threading Model
 https://piotrminkowski.com/2020/03/30/a-deep-dive-into-spring-webflux-threading-model/
 
+Reactive Context
+https://www.youtube.com/watch?v=5tlZddM5Jo0
+
+Code sample from an udemy video on webfluxes
+https://github.com/vinsguru/spring-webflux-course
+https://github.com/vinsguru/java-reactive-programming-course/tree/master/src
+https://github.com/dilipsundarraj1/reactive-spring-webflux
+https://github.com/dilipsundarraj1/reactive-spring-webflux
+
 ## Webfluxes and Kotlin Specifics
 Reactive and coroutines
 https://docs.spring.io/spring-framework/reference/languages/kotlin/coroutines.html#how-reactive-translates-to-coroutines
@@ -23,6 +32,11 @@ https://stackoverflow.com/questions/74461502/migration-guide-for-schedulers-enab
 
 # Kotlin Thread Safety
 https://levelup.gitconnected.com/how-to-write-thread-safe-code-with-kotlin-8a56ca6ff7a
+
+# General Async
+https://levelup.gitconnected.com/make-your-java-code-fully-async-369efa3b0f23
+
+https://deadlockempire.github.io/
 
 # Java Stuff
 ALl functional interfaces in java
@@ -37,3 +51,5 @@ https://www.baeldung.com/java-completablefuture
 ## NIO
 This is how netty is able to implement non-blocking IO
 https://jenkov.com/tutorials/java-nio/nio-vs-io.html
+
+https://medium.com/ing-blog/how-does-non-blocking-io-work-under-the-hood-6299d2953c74
